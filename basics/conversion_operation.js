@@ -14,3 +14,15 @@ console.log(booleanIsloggedIn)
 
 let stringNo=33
 console.log(typeof(String(stringNo)))
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2);
+console.log("1"+2+2);
+console.log(1+2+"3");
+
+console.log(" ")
+console.log(" ")
+
+console.log(+true)
+console.log(+"")
